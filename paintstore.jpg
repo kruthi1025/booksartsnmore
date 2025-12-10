@@ -1,0 +1,135 @@
+<html>
+<head>
+<title>booksartsnmore</title>
+</head>
+<body>
+<div style="display: flex; align-items: center;">
+  <img src="logoo.jpg" alt="Logo" style="width: 150px; height:150px; margin-right: 10px;">
+  <h1 style="font-family:Courier New; color:#7469B6;font-size:50px;">BOOKS.ARTS&MORE<br>explore.shop.create</h1>
+</div><hr style="border-color:7469B6; border-width: 5px;">
+<nav style="background-color: #d8bfd8; padding: 10px;">
+<center><font size="5" face="Courier New" color="AD88C6">
+  <ul style="list-style-type: none; padding: 0; margin: 0;">
+    <li style="display: inline; margin-right: 10px;"><a href="#">Home</a></li>
+    <li style="display: inline; margin-right: 10px;"><a href="#">Books</a></li>
+    <li style="display: inline; margin-right: 10px;"><a href="#">Art</a></li>
+    <li style="display: inline; margin-right: 10px;"><a href="#">Shop</a></li>
+  </ul>
+</center>
+</font>
+</nav>
+<center><b><h1 style="font-family:Courier New; color:#7469B6;font-size:45px;">SHOP OUR PAINTING SUPPLIES</h1></b></center>
+<br>
+<center><h1 style="font-family:Courier New; color:#7469B6; font-size:35px;">FICTION</h1><center>
+<section style="padding: 20px; text-align: center;">
+        <div style="display: inline-block; margin: 10px;">
+            <h2 style="color: #8E7AB5;">ACRYLICS</h2>
+            <img src="paint1.jpg" alt="ACRYLICS " style="width: 150px; height: 250px;">
+            <p style="font-size:20px;">RS. 1200</P>
+             <a href="Checkout.html" style="display: inline-block; padding: 5px 10px; background-color: #8E7AB5; color: #fff; border-radius: 5px;"><font   size="4">BUY NOW </font></a>
+        </div>
+        <div style="display: inline-block; margin: 10px;">
+            <img src="book2.jpg" alt="watercolor paint style="width: 150px; height: 200px;">
+            <h2 style="color: #8E7AB5;">WATERCOLOR PAINT SET</h2>
+            <img src="paint2.jpg" alt="watercolor paint" style="width: 150px; height: 200px;">
+            <p style="font-size:20px;">RS.450</P>
+             <a href="Checkout.html" style="display: inline-block; padding: 5px 10px; background-color: #8E7AB5; color: #fff; border-radius: 5px;"><font   size="4">BUY NOW </font></a>
+
+        </div>
+     <div style="display: inline-block; margin: 10px;">
+            <img src="book2.jpg" alt="gouache paint style="width: 150px; height: 200px;">
+            <h2 style="color: #8E7AB5;">GOUACHE PAINT SET</h2>
+            <img src="paint3.jpg" alt="gouache" style ="width: 150px; height: 200px;">
+            <p style="font-size:20px;">RS.450</P>
+             <a href="Checkout.html" style="display: inline-block; padding: 5px 10px; background-color: #8E7AB5; color: #fff; border-radius: 5px;"><font   size="4">BUY NOW </font></a>
+
+        </div>
+</div>
+<hr style="border-color:7469B6; border-width: 5px;">
+
+<h1 style="font-family:Courier New; color:#7469B6;font-size:35px">NON-FICTION</h1>
+<section style="padding: 20px; text-align: center;">
+        <div style="display: inline-block; margin: 10px;">
+            <img src="annefrank.jpg" alt="the dairy of anne frank" style="width: 150px; height: 200px;">
+            <h2 style="color: #8E7AB5;">THE DAIRY OF A YOUNG GIRL</h2>
+            <p style="font-size:15px;">The Diary of a Young Girl, often referred to as The Diary of Anne Frank,<br> is a book of the writings from the Dutch- language diary kept by Anne Frank<br> while she was in hiding for two years with her family <br>during the Nazi occupation of the Netherlands.</p>
+            <p style="font-size:20px;">RS. 600</P>
+             <a href="Checkout.html" style="display: inline-block; padding: 5px 10px; background-color: #8E7AB5; color: #fff; border-radius: 5px;"><font   size="4">BUY NOW </font></a>
+        </div>
+        <div style="display: inline-block; margin: 10px;">
+            <img src="ruskin bond.jpg" alt="all roads to ganga" style="width: 150px; height: 250px;">
+            <h2 style="color: #8E7AB5;">ALL ROADS TO GANGA</h2>
+             <p style="font-size:15px;">Ruskin Bond’s “All Roads Lead to Ganga” is not merely a tribute<br> to the revered mother figure known as Ganga by all Bharatvaasis, <br>but also a heartfelt celebration of the majestic Himalayas, <br>her sacred abode.</p>
+
+            <p style="font-size:20px;">RS.450</P>
+             <a href="Checkout.html" style="display: inline-block; padding: 5px 10px; background-color: #8E7AB5; color: #fff; border-radius: 5px;"><font   size="4">BUY NOW </font></a>
+
+        </div>
+</div>
+<hr style="border-color:7469B6; border-width: 5px;">
+<h1 style="font-family:Courier New; color:#7469B6; font-size:35px;">ROMANCE</h1>
+<section style="padding: 20px; text-align: center;">
+        <div style="display: inline-block; margin: 10px;">
+            <img src="book5.jpg" alt="things we never got over " style="width: 150px; height: 200px;">
+            <h2 style="color: #8E7AB5;">THINGS WE NEVER GOT OVER</h2>
+            <p style="font-size:15px;">n Lucy Score’s Things We Never Got Over (2022), <br>30-something-year-old Naomi Witt falls under the spell of a wealthy bar owner, <br>Knox Morgan, as she struggles to rediscover herself after ending an unhealthy relationship.<br> Knox’s good looks, solitary lifestyle, and bad-boy attitude convince Naomi to give love another chance.</p>
+            <p style="font-size:20px;">RS. 400</P>
+             <a href="Checkout.html" style="display: inline-block; padding: 5px 10px; background-color: #8E7AB5; color: #fff; border-radius: 5px;"><font   size="4">BUY NOW </font></a>
+        </div>
+        <div style="display: inline-block; margin: 10px;">
+            <img src="thesummer.jpg" alt="the summer i turned pretty" style="width: 150px; height: 200px;">
+            <h2 style="color: #8E7AB5;">THE SUMMER I TURNED PRETTY TRILOGY</h2>
+             <p style="font-size:15px;">The Summer I Turned Pretty trilogy is a coming-of-age story about love, friendship, and growing up. <br>Belly is a relatable character who is struggling to<br> figure out who she is and what she wants. <br>She is also dealing with the complicated relationships she has with Conrad and Jeremiah.
+</p>
+
+            <p style="font-size:20px;">RS.1250</P>
+             <a href="Checkout.html" style="display: inline-block; padding: 5px 10px; background-color: #8E7AB5; color: #fff; border-radius: 5px;"><font   size="4">BUY NOW </font></a>
+
+        </div>
+</div>
+
+<hr style="border-color:7469B6; border-width: 5px;">
+<h1 style="font-family:Courier New; color:#7469B6; font-size:35px;">GRAPHIC NOVEL/COMIC</h1>
+<section style="padding: 20px; text-align: center;">
+        <div style="display: inline-block; margin: 10px;">
+            <img src="archies.jpg" alt="archies " style="width: 150px; height: 200px;">
+            <h2 style="color: #8E7AB5;">THE ARCHIE COMICS</h2>
+            <p style="font-size:12px;">In Archie Comics, readers follow the humorous adventures of Archie Andrews and his friends in the town of Riverdale. <br>With a focus on teenage life, friendships, and romantic entanglements, <br>the series delivers lighthearted and relatable stories filled with humor, <br>romance, and everyday mishaps.</p>
+            <p style="font-size:20px;">RS. 200</P>
+             <a href="Checkout.html" style="display: inline-block; padding: 5px 10px; background-color: #8E7AB5; color: #fff; border-radius: 5px;"><font   size="4">BUY NOW </font></a>
+        </div>
+        <div style="display: inline-block; margin: 10px;">
+            <img src="deathnote.jpg" alt="death note" style="width: 150px; height: 250px;">
+            <h2 style="color: #8E7AB5;">DEATH NOTE</h2>
+             <p style="font-size:12px;">"Death Note" follows Light Yagami, a high school student who gains the ability to kill anyone<br> by writing their name in a supernatural notebook. <br>As he sets out to create a utopian world by eliminating criminals,<br> he becomes locked in a tense battle of wits with the mysterious detective L.
+</p>
+
+            <p style="font-size:20px;">RS.1250</P>
+             <a href="Checkout.html" style="display: inline-block; padding: 5px 10px; background-color: #8E7AB5; color: #fff; border-radius: 5px;"><font   size="4">BUY NOW </font></a>
+
+        </div>
+</div>
+
+<hr style="border-color:7469B6; border-width: 5px;">
+<h1 style="font-family:Courier New; color:#7469B6; font-size:35px;">MYSTERY</h1>
+<section style="padding: 20px; text-align: center;">
+        <div style="display: inline-block; margin: 10px;">
+            <img src="agatha.jpg" alt="and then there were none" style="width: 150px; height: 200px;">
+            <h2 style="color: #8E7AB5;">THEN THERE WERE NONE</h2>
+            <p style="font-size:12px;">This classic mystery novel follows ten strangers who are invited to an<br> isolated island under various pretexts. <br>They soon discover that they are being accused of past crimes, <br>and one by one, they start to die under mysterious circumstances. <br>The tension mounts as the survivors realize that the killer is among them.</p>
+            <p style="font-size:20px;">RS. 200</P>
+             <a href="Checkout.html" style="display: inline-block; padding: 5px 10px; background-color: #8E7AB5; color: #fff; border-radius: 5px;"><font   size="4">BUY NOW </font></a>
+        </div>
+        <div style="display: inline-block; margin: 10px;">
+            <img src="vinci.jpg" alt="THE DA VINCI CODE" style="width: 150px; height: 250px;">
+            <h2 style="color: #8E7AB5;">THE DA VINCI CODE</h2>
+             <p style="font-size:12px;">In this bestselling thriller, symbologist Robert Langdon and cryptologist Sophie Neveu race<br> across Europe to unravel the mystery<br> behind a series of murders and clues left by the legendary secret society,<br> the Priory of Sion. The novel delves into religious conspiracies, secret codes,<br> and hidden messages as the protagonists uncover the truth behind a centuries-old mystery.
+</p>
+
+            <p style="font-size:20px;">RS.1250</P>
+             <a href="Checkout.html" style="display: inline-block; padding: 5px 10px; background-color: #8E7AB5; color: #fff; border-radius: 5px;"><font   size="4">BUY NOW </font></a>
+
+        </div>
+</div>
+</body>
+</html>
